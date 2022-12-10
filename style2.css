@@ -1,0 +1,74 @@
+*{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.user{
+text-align: center;
+padding-left: 52px;
+padding-top: 19px;
+
+}
+h1{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 19px;
+
+}
+.email{
+    padding-top: 19px;
+    padding-left: 128px;
+}
+.password{
+    text-align: center;
+    padding-top: 19px;
+    padding-left: 54px;
+
+
+}
+.confirm_password{
+    text-align: center;
+    padding-top: 19px;
+    padding-right: 21px;
+
+
+
+}
+.card {
+cursor: pointer;
+width: 400px;
+height: 310px;
+background: rgb(255, 255, 255);
+border-radius: 5px;
+border: 1px solid rgb(185, 195, 250);
+transition: all .2s;
+box-shadow: 12px 12px 2px 1px rgb(117, 81, 248);
+margin-left: auto;
+margin-right: auto;
+margin-top: 15px;
+}
+
+.card:hover {
+box-shadow: -12px 12px 2px -1px rgb(78, 54, 167);
+}
+.btn{
+padding-top: 25px;
+padding-left: 63%;
+}
+.bt{
+color: white;
+background-color: #7552F8;
+border: 2px solid #7552F8;
+border-radius: 6px;
+width: 70%;
+height: 30px;
+}
+.bck{
+    margin-left: 59.5%;
+    margin-top: 9.5%;
+    color: rgb(0, 0, 0);
+    background-color: #B9C3FA;
+    border: 2px solid #B9C3FA;
+    border-radius: 6px;
+    height: 30px;
+    font-weight: bold;
+
+}
